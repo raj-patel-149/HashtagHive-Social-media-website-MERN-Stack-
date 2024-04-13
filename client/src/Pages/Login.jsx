@@ -35,7 +35,7 @@ const Login = () => {
               <img src={Logo} alt="" style={{ width: "7vh", height: "7vh" }} />
             </div>
             <span className="text-2xl text-[#5486d2] font-semibold mt-5">
-              Yap
+              HashtagHive
             </span>
           </div>
 
