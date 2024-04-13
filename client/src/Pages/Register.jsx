@@ -143,7 +143,7 @@ function Register() {
               to="/login"
               className="text-[#065ad8] font-semibold ml-2 cursor-pointer"
             >
-              Login
+              Log in
             </Link>
           </p>
         </div>
